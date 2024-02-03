@@ -1,0 +1,35 @@
+if statements
+
+if<control command>
+then
+<statements>
+fi
+
+
+if...else statements
+_____________________
+
+if<control command>
+then
+<statements>
+else
+<statements>
+fi
+
+
+if...elif...else...if statements
+________________________________
+
+if<control command>
+then
+<statements>
+elif
+then
+<statements>
+else
+<statements>
+fi
+
+
+
+
